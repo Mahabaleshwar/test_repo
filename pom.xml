@@ -28,7 +28,7 @@
         <kafka-clients.version>3.4.0</kafka-clients.version>
         <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
 		<java.version>17</java.version>
-		<disruptor.version>3.4.4</disruptor.version>
+		<disruptor.version>4.0.0</disruptor.version>
 		<logstash-logback-encoder.version>7.2</logstash-logback-encoder.version>
 		<aws-sdk.version>2.21.12</aws-sdk.version>
 		<commons-collections4.version>4.4</commons-collections4.version>
