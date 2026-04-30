@@ -26,7 +26,7 @@
         <git-code-format-maven-plugin.version>2.7</git-code-format-maven-plugin.version>
         <snakeyaml.version>2.0</snakeyaml.version>
         <kafka-clients.version>3.4.0</kafka-clients.version>
-        <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
 		<java.version>17</java.version>
 		<disruptor.version>3.4.4</disruptor.version>
 		<logstash-logback-encoder.version>7.2</logstash-logback-encoder.version>
